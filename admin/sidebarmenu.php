@@ -7,7 +7,7 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a href="index.php" class="site_title"><i class="fa fa-institution"></i> <span> Arsip Surat</span></a>
+              <a href="index.php" class="site_title"> <span> Arsip Surat</span></a>
             </div>
 
             <div class="clearfix"></div>

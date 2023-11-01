@@ -7,8 +7,8 @@ date_default_timezone_set("Asia/Jakarta");
 $excelku = new PHPExcel();
 
 // Set properties
-$excelku->getProperties()->setCreator("Rifki")
-                         ->setLastModifiedBy("Rifki");
+$excelku->getProperties()->setCreator("Anonim")
+                         ->setLastModifiedBy("Anonim");
 
 
 
